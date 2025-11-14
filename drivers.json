@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Lando Norris",
+    "website_url": "https://www.landonorris.com",
+    "team": "McLaren",
+    "short_name": "NOR"
+  },
+  {
+    "name": "Oscar Piastri",
+    "website_url": "https://www.oscarpiastri.com",
+    "team": "McLaren",
+    "short_name": "PIA"
+  },
+  {
+    "name": "Max Verstappen",
+    "website_url": "https://www.verstappen.com",
+    "team": "Red Bull Racing",
+    "short_name": "VER"
+  },
+  {
+    "name": "George Russell",
+    "website_url": "https://www.georgerussell63.com",
+    "team": "Mercedes",
+    "short_name": "RUS"
+  },
+  {
+    "name": "Charles Leclerc",
+    "website_url": "https://charlesleclerc.com/en/",
+    "team": "Ferrari",
+    "short_name": "LEC"
+  },
+  {
+    "name": "Lewis Hamilton",
+    "website_url": "https://www.lewishamilton.com",
+    "team": "Ferrari",
+    "short_name": "HAM"
+  },
+  {
+    "name": "Andrea Kimi Antonelli",
+    "website_url": "https://www.mercedesamgf1.com/drivers/driver/andrea-kimi-antonelli",
+    "team": "Mercedes",
+    "short_name": "ANT"
+  },
+  {
+    "name": "Alex Albon",
+    "website_url": "https://www.alexalbon.com",
+    "team": "Williams",
+    "short_name": "ALB"
+  },
+  {
+    "name": "Nico Hülkenberg",
+    "website_url": "https://www.nicohulkenberg.net",
+    "team": "Sauber",
+    "short_name": "HUL"
+  },
+  {
+    "name": "Isack Hadjar",
+    "website_url": "https://www.isackhadjar.com",
+    "team": "RB",
+    "short_name": "HAD"
+  },
+  {
+    "name": "Oliver Bearman",
+    "website_url": "https://www.olliebearman.com",
+    "team": "Haas",
+    "short_name": "BEA"
+  },
+  {
+    "name": "Fernando Alonso",
+    "website_url": "https://www.fernandoalonso.com",
+    "team": "Aston Martin",
+    "short_name": "ALO"
+  },
+  {
+    "name": "Carlos Sainz",
+    "website_url": "https://www.carlossainz.es/en/",
+    "team": "Williams",
+    "short_name": "SAI"
+  },
+  {
+    "name": "Liam Lawson",
+    "website_url": "https://www.liamlawson30.com",
+    "team": "Red Bull Racing",
+    "short_name": "LAW"
+  },
+  {
+    "name": "Lance Stroll",
+    "website_url": "https://www.lancestroll.com",
+    "team": "Aston Martin",
+    "short_name": "STR"
+  },
+  {
+    "name": "Esteban Ocon",
+    "website_url": "https://www.esteban-ocon.com",
+    "team": "Haas",
+    "short_name": "OCO"
+  },
+  {
+    "name": "Yuki Tsunoda",
+    "website_url": "https://www.yukitsunoda.com",
+    "team": "RB",
+    "short_name": "TSU"
+  },
+  {
+    "name": "Pierre Gasly",
+    "website_url": "https://www.pierregasly.com/en/",
+    "team": "Alpine",
+    "short_name": "GAS"
+  },
+  {
+    "name": "Gabriel Bortoleto",
+    "website_url": "https://www.gabrielbortoleto.com.br/en/",
+    "team": "Sauber",
+    "short_name": "BOR"
+  },
+  {
+    "name": "Franco Colapinto",
+    "website_url": "https://www.francolapinto.com",
+    "team": "Williams",
+    "short_name": "COL"
+  }
+]
